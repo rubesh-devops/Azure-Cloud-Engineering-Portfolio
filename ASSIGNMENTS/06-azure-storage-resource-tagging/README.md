@@ -115,7 +115,7 @@ Successfully created and managed **multiple Azure Storage Accounts** using **tea
 ## 📸 **Proof of Implementation**
 
 📄 Consolidated Assignment Execution PDF (Commands & Screenshots):  
-👉 *https://drive.google.com/file/d/1qx7o7b7BWyAAziyQx3kbyVVf1rahRe5g/view?usp=drive_link*
+👉 *https://drive.google.com/file/d/1Lmh-Yyb9HY4i_KbMBC_-1gPsJ6faSvwN/view?usp=drive_link*
 
 ---
 
